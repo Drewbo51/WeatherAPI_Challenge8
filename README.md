@@ -10,6 +10,8 @@
 
 ![](./Images/Screenshot%20(2).png)
 
-https://github.com/Drewbo51/WeatherAPI_Challenge8
+GitHub Repo: https://github.com/Drewbo51/WeatherAPI_Challenge8
+
+Deployed URL: https://drewbo51.github.io/WeatherAPI_Challenge8/
 
 ![](./Images/Screenshot%20(3).png)
